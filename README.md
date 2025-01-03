@@ -37,8 +37,8 @@ PladaAI allows users to upload documents for assessment by a **Plagiarism Detect
 - **Hybrid Detection Method**: Grammar Semantics for nuanced detection
 
 ## Contributors
-**Yiltok, Bentinen A.**
-**Olugunna, Samuel B.**: Project Manager 
-**John, Godena’an J.**
-**Terna, Bartholomew S.**
-**David, Ibrahim**
+- **Yiltok, Bentinen A.**
+- **Olugunna, Samuel B.** : Project Manager 
+- **John, Godena’an J.**
+- **Terna, Bartholomew S.**
+- **David, Ibrahim**
